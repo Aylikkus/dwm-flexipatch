@@ -133,7 +133,7 @@
 #define BAR_TAGPREVIEW_PATCH 0
 
 /* Show status in bar */
-#define BAR_STATUS_PATCH 1
+#define BAR_STATUS_PATCH 0
 
 /* This patch adds a clickable button to the left hand side of the statusbar.
  * https://dwm.suckless.org/patches/statusbutton/
